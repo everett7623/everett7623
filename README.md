@@ -1,62 +1,39 @@
-<h2 align="center">Hi, I'm Everett 👋</h2>
+<div align="center">
 
-<p align="center">
-  <b>Indie developer · Network tools · Self-hosted systems · Automation</b>
+# EverettLabs
+
+**Network tools · Self-hosted systems · Automation lab**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=everett7623&label=visitors&color=0f172a&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/everett7623?label=followers&style=flat-square&color=0f172a" />
+  <img src="https://img.shields.io/badge/builder-everettlabs-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-shipping-079CA3?style=flat-square" />
 </p>
 
-<p align="center">
-  <a href="https://everettlabs.com">EverettLabs</a> ·
-  <a href="https://seedloc.com">Blog</a> ·
-  <a href="https://vpsknow.com">VPSKnow</a> ·
-  <a href="https://globokit.com">Globokit</a> ·
-  <a href="https://t.me/jensfrank">Telegram</a>
-</p>
+<a href="https://everettlabs.com">EverettLabs</a> ·
+<a href="https://seedloc.com">Seedloc</a> ·
+<a href="https://vpsknow.com">VPSKnow</a> ·
+<a href="https://globokit.com">Globokit</a> ·
+<a href="https://t.me/jensfrank">Telegram</a>
+
+</div>
 
 ---
 
-### About Me
+### Console
 
-> Building practical tools for VPS testing, link management, browser productivity, and indie web projects.
+```txt
+> whoami
+Everett / Frank
 
-<table>
-  <tr>
-    <td><b>Lab</b></td>
-    <td><a href="https://everettlabs.com">https://everettlabs.com</a></td>
-  </tr>
-  <tr>
-    <td><b>Blog</b></td>
-    <td><a href="https://seedloc.com">https://seedloc.com</a></td>
-  </tr>
-  <tr>
-    <td><b>VPS</b></td>
-    <td><a href="https://vpsknow.com">https://vpsknow.com</a></td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><a href="https://globokit.com">https://globokit.com</a></td>
-  </tr>
-</table>
+> current_work
+Building practical tools for VPS testing, link infrastructure,
+browser productivity, automation, and self-hosted workflows.
 
-### Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel" />
-</p>
-
-### Focus
-
-<p>
-  <img src="https://img.shields.io/badge/VPS_Testing-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Link_Infra-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Browser_Tools-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Self_Hosted-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-0f172a?style=flat-square" />
-</p>
+> philosophy
+Ship small. Measure honestly. Keep systems understandable.
+Labs
+<table> <tr> <td><b>VPSKnow</b></td> <td>VPS testing, network notes, scripts, and recommendation systems.</td> <td><a href="https://vpsknow.com">vpsknow.com</a></td> </tr> <tr> <td><b>Linketry</b></td> <td>Self-hosted link management, analytics, and monitoring.</td> <td><a href="https://github.com/everett7623/Linketry">GitHub</a></td> </tr> <tr> <td><b>FavGrove</b></td> <td>Local-first bookmark workspace and broken-link scanner.</td> <td><a href="https://github.com/everett7623/FavGrove">GitHub</a></td> </tr> <tr> <td><b>Globokit</b></td> <td>Toolbox for practical web utilities and workflows.</td> <td><a href="https://globokit.com">globokit.com</a></td> </tr> </table>
+Stack
+<p> <img src="https://img.shields.io/badge/Shell-0f172a?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js" /> <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker" /> <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-0f172a?style=flat-square&logo=vercel" /> </p> <p> <img src="https://img.shields.io/badge/VPS_Testing-079CA3?style=flat-square" /> <img src="https://img.shields.io/badge/IP_Quality-079CA3?style=flat-square" /> <img src="https://img.shields.io/badge/Link_Infra-079CA3?style=flat-square" /> <img src="https://img.shields.io/badge/Self_Hosted-079CA3?style=flat-square" /> <img src="https://img.shields.io/badge/Automation-079CA3?style=flat-square" /> </p>
