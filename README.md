@@ -25,7 +25,7 @@
 
 ```txt
 > whoami
-Everett / Frank
+Everett
 
 > current_work
 Building practical tools for VPS testing, link infrastructure,
