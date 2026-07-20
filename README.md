@@ -1,48 +1,43 @@
-<div align="center">
+<h2 align="center">Hi, I'm Everett 👋</h2>
 
-# EverettLabs
+<p align="center">
+  <b>Indie developer · Network tools · Self-hosted systems · Automation</b>
+</p>
 
-**Builder of network tools, indie products, and practical systems.**
-
-I build small but useful things around VPS, proxies, automation, link infrastructure, browser tools, and developer workflows.
-
-[Website](https://everettlabs.com) · [Blog](https://seedloc.com) · [VPSKnow](https://vpsknow.com) · [Globokit](https://globokit.com) · [Telegram](https://t.me/jensfrank)
-
-</div>
-
----
-
-## About Me
-
-Hi, I'm **Everett / Frank**.
-
-I like building tools that are practical, fast, and a little obsessive about details.  
-My projects usually sit somewhere between **network infrastructure**, **automation**, **self-hosted tools**, and **real-world productivity**.
-
-Current focus:
-
-- VPS testing, scripts, monitoring, and infrastructure notes
-- Self-hosted link management and analytics
-- Browser productivity tools
-- Proxy, network, and airport recommendation systems
-- Indie web projects under **EverettLabs**
+<p align="center">
+  <a href="https://everettlabs.com">EverettLabs</a> ·
+  <a href="https://seedloc.com">Blog</a> ·
+  <a href="https://vpsknow.com">VPSKnow</a> ·
+  <a href="https://globokit.com">Globokit</a> ·
+  <a href="https://t.me/jensfrank">Telegram</a>
+</p>
 
 ---
 
-## Featured Projects
+### About Me
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [vps_scripts](https://github.com/everett7623/vps_scripts) | VPS utility scripts for system setup, testing, IP quality checks, and streaming unlock tests. | Shell |
-| [airport-recommendations-2026](https://github.com/everett7623/airport-recommendations-2026) | Airport recommendation list with trials, pricing, routes, and real-world notes. | JavaScript |
-| [Linketry](https://github.com/everett7623/Linketry) | A self-hosted link management, analytics, and monitoring platform. | TypeScript |
-| [FavGrove](https://github.com/everett7623/FavGrove) | Local-first bookmark workspace and broken-link scanner for Chrome and Edge. | TypeScript |
-| [Nezha-cleaner](https://github.com/everett7623/Nezha-cleaner) | Cleanup script for Nezha Agent traces. | Shell |
-| [nodemoc_vps_test](https://github.com/everett7623/nodeloc_vps_test) | VPS benchmarking and report script for community testing. | Shell |
+> Building practical tools for VPS testing, link management, browser productivity, and indie web projects.
 
----
+<table>
+  <tr>
+    <td><b>Lab</b></td>
+    <td><a href="https://everettlabs.com">https://everettlabs.com</a></td>
+  </tr>
+  <tr>
+    <td><b>Blog</b></td>
+    <td><a href="https://seedloc.com">https://seedloc.com</a></td>
+  </tr>
+  <tr>
+    <td><b>VPS</b></td>
+    <td><a href="https://vpsknow.com">https://vpsknow.com</a></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><a href="https://globokit.com">https://globokit.com</a></td>
+  </tr>
+</table>
 
-## Tech Stack
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -52,61 +47,16 @@ Current focus:
   <img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js" />
   <img src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Cloudflare-f97316?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel" />
 </p>
 
----
-
-## What I Build
-
-```txt
-EverettLabs
-├─ Network tools
-│  ├─ VPS testing
-│  ├─ IP quality checks
-│  ├─ unlock testing
-│  └─ monitoring scripts
-├─ Web products
-│  ├─ link management
-│  ├─ bookmark tools
-│  └─ content platforms
-├─ Automation
-│  ├─ Telegram bots
-│  ├─ data collection
-│  └─ workflow helpers
-└─ Research notes
-   ├─ VPS
-   ├─ proxies
-   ├─ airports
-   └─ self-hosting
-````
-
----
-
-## Sites
-
-| Name        | URL                                                |
-| ----------- | -------------------------------------------------- |
-| EverettLabs | [https://everettlabs.com](https://everettlabs.com) |
-| Seedloc     | [https://seedloc.com](https://seedloc.com)         |
-| VPSKnow     | [https://vpsknow.com](https://vpsknow.com)         |
-| Globokit    | [https://globokit.com](https://globokit.com)       |
-| Telegram    | [https://t.me/jensfrank](https://t.me/jensfrank)   |
-
----
-
-## GitHub Stats
+### Focus
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=everett7623&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everett7623&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/VPS_Testing-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Link_Infra-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Browser_Tools-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self_Hosted-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-0f172a?style=flat-square" />
 </p>
-
----
-
-<div align="center">
-
-**Build quietly. Ship consistently. Make useful things.**
-
-</div>
